@@ -1137,7 +1137,6 @@ add list=China_Ip address=103.139.212.0/23 comment=AS4809
 add list=China_Ip address=103.140.14.0/23 comment=AS4809
 add list=China_Ip address=103.141.10.0/23 comment=AS4809
 add list=China_Ip address=103.142.96.0/23 comment=AS4809
-add list=China_Ip address=103.142.154.0/23 comment=AS4809
 add list=China_Ip address=103.142.234.0/23 comment=AS4809
 add list=China_Ip address=103.143.16.0/22 comment=AS4809
 add list=China_Ip address=103.144.66.0/23 comment=AS4809

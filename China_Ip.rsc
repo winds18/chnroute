@@ -64,6 +64,7 @@ add list=China_Ip address=14.134.0.0/15 comment=AS4809
 add list=China_Ip address=14.144.0.0/12 comment=AS4809
 add list=China_Ip address=14.204.0.0/15 comment=AS4809
 add list=China_Ip address=14.208.0.0/12 comment=AS4809
+add list=China_Ip address=14.238.34.0/24 comment=AS4809
 add list=China_Ip address=14.255.16.0/24 comment=AS4809
 add list=China_Ip address=14.255.238.0/24 comment=AS4809
 add list=China_Ip address=14.255.254.0/24 comment=AS4809
@@ -1342,6 +1343,7 @@ add list=China_Ip address=103.251.84.0/22 comment=AS4809
 add list=China_Ip address=103.251.96.0/22 comment=AS4809
 add list=China_Ip address=103.251.124.0/22 comment=AS4809
 add list=China_Ip address=103.251.160.0/22 comment=AS4809
+add list=China_Ip address=103.251.204.0/24 comment=AS4809
 add list=China_Ip address=103.251.207.0/24 comment=AS4809
 add list=China_Ip address=103.251.240.0/22 comment=AS4809
 add list=China_Ip address=103.252.36.0/24 comment=AS4809
@@ -1632,6 +1634,7 @@ add list=China_Ip address=114.96.0.0/13 comment=AS4809
 add list=China_Ip address=114.104.0.0/14 comment=AS4809
 add list=China_Ip address=114.110.0.0/20 comment=AS4809
 add list=China_Ip address=114.110.96.0/22 comment=AS4809
+add list=China_Ip address=114.110.112.0/22 comment=AS4809
 add list=China_Ip address=114.111.0.0/23 comment=AS4809
 add list=China_Ip address=114.111.16.0/20 comment=AS4809
 add list=China_Ip address=114.111.191.0/24 comment=AS4809
@@ -1655,11 +1658,7 @@ add list=China_Ip address=114.112.136.0/21 comment=AS4809
 add list=China_Ip address=114.112.144.0/21 comment=AS4809
 add list=China_Ip address=114.112.200.0/21 comment=AS4809
 add list=China_Ip address=114.112.208.0/20 comment=AS4809
-add list=China_Ip address=114.113.63.0/24 comment=AS4809
-add list=China_Ip address=114.113.65.0/24 comment=AS4809
 add list=China_Ip address=114.113.66.0/24 comment=AS4809
-add list=China_Ip address=114.113.80.0/22 comment=AS4809
-add list=China_Ip address=114.113.84.0/24 comment=AS4809
 add list=China_Ip address=114.113.88.0/21 comment=AS4809
 add list=China_Ip address=114.113.96.0/20 comment=AS4809
 add list=China_Ip address=114.113.112.0/22 comment=AS4809
@@ -2033,6 +2032,7 @@ add list=China_Ip address=119.37.12.0/24 comment=AS4809
 add list=China_Ip address=119.37.192.0/21 comment=AS4809
 add list=China_Ip address=119.38.0.0/21 comment=AS4809
 add list=China_Ip address=119.38.192.0/19 comment=AS4809
+add list=China_Ip address=119.38.224.0/24 comment=AS4809
 add list=China_Ip address=119.39.0.0/16 comment=AS4809
 add list=China_Ip address=119.40.41.0/24 comment=AS4809
 add list=China_Ip address=119.40.64.0/20 comment=AS4809
@@ -2881,8 +2881,7 @@ add list=China_Ip address=202.30.124.0/24 comment=AS4809
 add list=China_Ip address=202.38.8.0/21 comment=AS4809
 add list=China_Ip address=202.38.64.0/18 comment=AS4809
 add list=China_Ip address=202.38.128.0/23 comment=AS4809
-add list=China_Ip address=202.38.132.0/23 comment=AS4809
-add list=China_Ip address=202.38.134.0/24 comment=AS4809
+add list=China_Ip address=202.38.132.0/22 comment=AS4809
 add list=China_Ip address=202.38.140.0/23 comment=AS4809
 add list=China_Ip address=202.38.152.0/23 comment=AS4809
 add list=China_Ip address=202.38.164.0/22 comment=AS4809
@@ -3167,6 +3166,7 @@ add list=China_Ip address=203.107.1.0/24 comment=AS4809
 add list=China_Ip address=203.107.2.0/24 comment=AS4809
 add list=China_Ip address=203.107.6.0/24 comment=AS4809
 add list=China_Ip address=203.107.13.0/24 comment=AS4809
+add list=China_Ip address=203.107.14.0/24 comment=AS4809
 add list=China_Ip address=203.107.20.0/22 comment=AS4809
 add list=China_Ip address=203.107.26.0/23 comment=AS4809
 add list=China_Ip address=203.107.28.0/22 comment=AS4809
@@ -3184,7 +3184,6 @@ add list=China_Ip address=203.118.248.0/22 comment=AS4809
 add list=China_Ip address=203.119.25.0/24 comment=AS4809
 add list=China_Ip address=203.119.26.0/23 comment=AS4809
 add list=China_Ip address=203.119.28.0/23 comment=AS4809
-add list=China_Ip address=203.119.30.0/24 comment=AS4809
 add list=China_Ip address=203.119.80.0/24 comment=AS4809
 add list=China_Ip address=203.119.83.0/24 comment=AS4809
 add list=China_Ip address=203.119.115.0/24 comment=AS4809
@@ -3692,8 +3691,8 @@ add list=China_Ip address=220.154.0.0/20 comment=AS4809
 add list=China_Ip address=220.154.16.0/22 comment=AS4809
 add list=China_Ip address=220.154.64.0/20 comment=AS4809
 add list=China_Ip address=220.154.80.0/22 comment=AS4809
+add list=China_Ip address=220.154.116.0/23 comment=AS4809
 add list=China_Ip address=220.154.128.0/20 comment=AS4809
-add list=China_Ip address=220.154.144.0/24 comment=AS4809
 add list=China_Ip address=220.154.147.0/24 comment=AS4809
 add list=China_Ip address=220.160.0.0/12 comment=AS4809
 add list=China_Ip address=220.176.0.0/14 comment=AS4809
@@ -3805,7 +3804,7 @@ add list=China_Ip address=222.126.170.0/23 comment=AS4809
 add list=China_Ip address=222.126.172.0/22 comment=AS4809
 add list=China_Ip address=222.126.180.0/22 comment=AS4809
 add list=China_Ip address=222.126.184.0/22 comment=AS4809
-add list=China_Ip address=222.126.188.0/23 comment=AS4809
+add list=China_Ip address=222.126.188.0/24 comment=AS4809
 add list=China_Ip address=222.126.192.0/22 comment=AS4809
 add list=China_Ip address=222.126.196.0/23 comment=AS4809
 add list=China_Ip address=222.126.200.0/22 comment=AS4809
